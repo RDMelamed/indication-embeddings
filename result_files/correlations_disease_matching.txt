@@ -1,0 +1,8 @@
+	331.9, Cerebral degeneration	331.9, Cerebral degeneration	564.1, IBS	564.1, IBS	305.1, Smoking	305.1, Smoking	710.0, Lupus	710.0, Lupus	729.1, Fibromyalgia	729.1, Fibromyalgia	346.90, Migraine	346.90, Migraine
+	ps	emb	ps	emb	ps	emb	ps	emb	ps	emb	ps	emb
+amitriptyline - bupropion	0.46	0.6	0.27	0.45	0.33	0.51	0.56	0.68	0.32	0.54	0.53	0.61
+mirtazapine - paroxetine	0.66	0.68	0.3	0.48	0.32	0.51	0.34	0.53	0.35	0.54	0.54	0.64
+bupropion - trazodone	0.35	0.58	0.35	0.51	0.34	0.57	0.31	0.51	0.35	0.57	0.5	0.63
+doxepin - venlafaxine	0.57	0.64	0.33	0.53	0.31	0.51	0.3	0.5	0.29	0.53	0.45	0.58
+fluvoxamine - amitriptyline	0.56	0.66	0.36	0.53	0.4	0.58	0.46	0.61	0.4	0.58	0.41	0.59
+duloxetine - bupropion	0.29	0.46	0.3	0.47	0.27	0.45	0.28	0.46	0.42	0.57	0.46	0.58
